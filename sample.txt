@@ -13,5 +13,5 @@ Features
     Garbage accumulates until collected.
 
 
-Simple living and high thinking is best way of life.
+
 
