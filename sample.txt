@@ -1,1 +1,17 @@
+Git is one of the best version control tools that is available in the present market.
+
+Features
+
+    Provides strong support for non-linear development.
+    Distributed repository model.
+    Compatible with existing systems and protocols like HTTP, FTP, ssh.
+    Capable of efficiently handling small to large sized projects.
+    Cryptographic authentication of history.
+    Pluggable merge strategies.
+    Toolkit-based design.
+    Periodic explicit object packing.
+    Garbage accumulates until collected.
+
+
 Simple living and high thinking is best way of life.
+
